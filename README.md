@@ -9,8 +9,8 @@ Los proyectos incluyen aplicaciones web, herramientas de automatización y aplic
 En caso de que estes interesado mandame un correo al mail indicado en el CV y te dare acceso.
 
 Proyectos que puedes visitar y usar desde aqui:
-
 - App para realizar fichajes: https://appfichajes.vercel.app/
 - App para estudiar teoria y hacer test de EMASESA: https://apptest-emasesa.vercel.app/
 - Tienda/Blog de Pokemon TCG: https://obsidian-card-shop.vercel.app/ (Actualmente pausada y movida a prestashop)
 - App para gestión de rodajes: https://vercel.com/aitormcs-projects/chemtor (Pausada)
+- TFG: https://github.com/AitorMC/Trabajo-Fin-de-Grado
